@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f729cf7e-490d-4b9c-9ee4-f00432cb96c7",
+        "username": "john_wick",
+        "tweet": "Your true worth is determined by how much more you give in value than you take in payment."
+    },{
+        "id": "efd5327d-983a-4c97-bc2e-0e107fba3499",
+        "username": "christopher_nolan",
+        "tweet":"If you\u2019re worried about what people will say, you\u2019re probably doing the right thing."
+    },{
+        "id": "6bf943d4-c9e1-432c-b754-c9c65c8815da",
+        "username": "elon_musk",
+        "tweet": "When something is important enough, you do it even if the odds are not in your favor."
+    },{
+        "id":"41e6f97a-a5ab-4ef1-8e7f-e93b6a06026c",
+        "username": "naval",
+        "tweet": "There\u2019s only one way you can fail at life - and that\u2019s by choosing not to try."
+    }
+]
